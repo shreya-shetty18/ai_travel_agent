@@ -1,4 +1,4 @@
-# ✈️ Voyager: Autonomous Travel Intelligence Agent
+# ✈️ Travel Agent
 
 **Travel Agent** is a production-grade multi-agent system built on the **Agno** framework, designed to automate end-to-end travel orchestration. By leveraging **Gemini 2.5 Flash** for high-concurrency reasoning and **SerpAPI** for real-time web perception, Voyager transforms unstructured travel intent into structured, actionable itineraries.
 
