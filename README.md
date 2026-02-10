@@ -1,8 +1,18 @@
-# ✈️ Travel Agent
+<p align="center">
+  <img src="https://img.shields.io/badge/Voyager-Travel%20Agent-ff4b4b?style=for-the-badge&logo=streamlit" alt="Voyager Logo">
+</p>
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://voyager-travel-agent.streamlit.app/)
+<h1 align="center">✈️ Voyager: Travel Agent</h1>
 
-**Travel Agent** is a production-grade multi-agent system built on the **Agno** framework, designed to automate end-to-end travel orchestration. By leveraging **Gemini 2.5 Flash** for high-concurrency reasoning and **SerpAPI** for real-time web perception, Voyager transforms unstructured travel intent into structured, actionable itineraries.
+<p align="center">
+  <a href="https://voyager-travel-agent.streamlit.app/">
+    <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" width="200">
+  </a>
+</p>
+
+
+
+**Voyager: Travel Agent** is a production-grade multi-agent system built on the **Agno** framework, designed to automate end-to-end travel orchestration. By leveraging **Gemini 2.5 Flash** for high-concurrency reasoning and **SerpAPI** for real-time web perception, Voyager transforms unstructured travel intent into structured, actionable itineraries.
 
 
 
