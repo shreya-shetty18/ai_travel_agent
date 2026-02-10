@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Voyager-Travel%20Agent-ff4b4b?style=for-the-badge&logo=streamlit" alt="Voyager Logo">
+  <img src="assets/logo.png" alt="Voyager Logo" width="200">
 </p>
 
 <h1 align="center">✈️ Voyager: Travel Agent</h1>
