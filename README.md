@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Voyager Logo" width="200">
+  <img src="assests/logo.png" alt="Voyager Logo" width="200">
 </p>
 
 <h1 align="center">✈️ Voyager: Travel Agent</h1>
