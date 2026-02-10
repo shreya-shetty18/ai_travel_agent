@@ -1,0 +1,11 @@
+# --- Streamlit Secrets (DO NOT REMOVE) ---
+.streamlit/secrets.toml
+
+# --- Python & Environment ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+.venv/
